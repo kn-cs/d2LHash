@@ -1,3 +1,2 @@
 * linguist-vendored
-*.s linguist-vendored=false
 *.S linguist-vendored=false
